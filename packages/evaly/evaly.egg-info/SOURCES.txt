@@ -1,0 +1,9 @@
+README.md
+setup.py
+evaly/__init__.py
+evaly/client.py
+evaly.egg-info/PKG-INFO
+evaly.egg-info/SOURCES.txt
+evaly.egg-info/dependency_links.txt
+evaly.egg-info/requires.txt
+evaly.egg-info/top_level.txt
